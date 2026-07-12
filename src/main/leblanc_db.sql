@@ -20,3 +20,4 @@ CREATE TABLE IF NOT EXISTS reservations (
   FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE
 );
  
+ 
