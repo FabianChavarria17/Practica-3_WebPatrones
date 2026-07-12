@@ -1,4 +1,5 @@
 <?php
+//Recordatorio actualizar la contraseña de la DB en las pruebas
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', 'admin');
